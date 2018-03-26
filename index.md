@@ -1,6 +1,6 @@
 ---
 title: Moved to LilyBee.ch
-layout: redirected
+layout: redirect
 redirect_to: http://www.lilybee.ch
 ---
 
