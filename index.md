@@ -1,5 +1,6 @@
 ---
 title: Redirect to LilyBee.ch
+layout: home
 redirect_to:
   - http://www.lilybee.ch
 ---
